@@ -1,8 +1,7 @@
 # botClass
 ## אפשרויות ייבוא
-- `require` לשמור את הקובץ ספריה אצלכם מקומית במחשב ולייבא אותו ע"י  
-- `eval(file_get_contets("https://github.com/nnaftali100/botClass/` אפשרות שניה ע"י הרצה מתוך הקוד פה 
+-  כמו בדוגמא שיש פה `require` לשמור את הקובץ ספריה אצלכם מקומית במחשב ולייבא אותו ע"י  
+- `eval(str_replace("<php", "", file_get_contets("https://raw.githubusercontent.com/naftali100/botClass/master/botClass.php"));` אפשרות שניה ע"י הרצה מתוך הקוד פה 
 
-## הראות שימוש
-
+https://t.me/help_PHP_1 לתמיכה 
 
